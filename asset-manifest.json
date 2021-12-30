@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/dummy-dashboard/static/css/main.3b92f426.css",
+    "main.js": "/dummy-dashboard/static/js/main.1050d14e.js",
+    "static/media/Sushi.jpg": "/dummy-dashboard/static/media/Sushi.f3b1d2c4fdc69bd65fef.jpg",
+    "static/media/Samosa.jpg": "/dummy-dashboard/static/media/Samosa.108e33cef4fa30472ab7.jpg",
+    "static/media/Pizza.jpg": "/dummy-dashboard/static/media/Pizza.76aa5e98124666f496be.jpg",
+    "static/media/Burger.jpg": "/dummy-dashboard/static/media/Burger.056f538f7cba68bd05cc.jpg",
+    "static/media/Fries.jpg": "/dummy-dashboard/static/media/Fries.44779e64d5962fa0c14b.jpg",
+    "static/media/Cardinal.jpg": "/dummy-dashboard/static/media/Cardinal.f5b18edca1aca844d717.jpg",
+    "static/media/Robin.jpg": "/dummy-dashboard/static/media/Robin.6f73edb80824178cb2e9.jpg",
+    "static/media/Salad.jpg": "/dummy-dashboard/static/media/Salad.41566431be74b4a3c7d1.jpg",
+    "static/media/Husky.jpg": "/dummy-dashboard/static/media/Husky.509cca2fd313a721edbb.jpg",
+    "static/media/Rice.jpg": "/dummy-dashboard/static/media/Rice.ff667572b9ffbc3884f8.jpg",
+    "static/media/Roti.jpg": "/dummy-dashboard/static/media/Roti.061851c2611815bc9272.jpg",
+    "static/media/Bull_dog.jpg": "/dummy-dashboard/static/media/Bull_dog.0b1db7013507653976c7.jpg",
+    "static/media/Pug.jpg": "/dummy-dashboard/static/media/Pug.0779a464aaf5a3f3092a.jpg",
+    "static/media/Paneer.jpg": "/dummy-dashboard/static/media/Paneer.ba038adbe41a6a95c9e9.jpg",
+    "static/media/Tufted_titmouse.jpg": "/dummy-dashboard/static/media/Tufted_titmouse.6f82c64b4dc748520b7e.jpg",
+    "static/media/Golden_Retriver.jpg": "/dummy-dashboard/static/media/Golden_Retriver.890971ebe1f2fef16b03.jpg",
+    "static/media/Egg.jpg": "/dummy-dashboard/static/media/Egg.a403dc7dca12f798f87f.jpg",
+    "static/media/Egret.jpg": "/dummy-dashboard/static/media/Egret.d40f705d51f895a17fa9.jpg",
+    "static/media/Fringilla.jpg": "/dummy-dashboard/static/media/Fringilla.3ae35b439ac3cb1808d0.jpg",
+    "static/media/Rottweiler.jpg": "/dummy-dashboard/static/media/Rottweiler.d0d888b48f180f74a614.jpg",
+    "index.html": "/dummy-dashboard/index.html",
+    "main.3b92f426.css.map": "/dummy-dashboard/static/css/main.3b92f426.css.map",
+    "main.1050d14e.js.map": "/dummy-dashboard/static/js/main.1050d14e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b92f426.css",
+    "static/js/main.1050d14e.js"
+  ]
+}
